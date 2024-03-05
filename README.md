@@ -47,3 +47,6 @@
   
 - Kết quả dự đoán đây là nhận xét tiêu cực và có tỉ lệ là 99.99%. Khi đọc nhận xét, ta có thể thấy ý nghĩa của câu đúng là tiêu cực, chứng tỏ kết quả dự đoán là đúng.
 
+## Hướng dẫn chạy code:
+- Tải notebook lên Google Colab và chạy với GPU.
+
